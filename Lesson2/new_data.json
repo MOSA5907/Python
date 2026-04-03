@@ -2,86 +2,134 @@
     {
         "name": "Adjaye",
         "age": "23",
-        "city": "Accra"
+        "city": "Accra",
+        "role": "frontdesk",
+        "department": "marketing"
     },
     {
         "name": "John",
         "age": "30",
-        "city": "New York      "
+        "city": "New York",
+        "role": "manager",
+        "department": "marketing"
     },
     {
         "name": "Jane",
         "age": "25",
-        "city": "London"
+        "city": "London",
+        "role": "developer",
+        "department": "engineering"
     },
     {
         "name": "Doe",
         "age": "28",
-        "city": "Paris"
+        "city": "Paris",
+        "role": "designer",
+        "department": "design"
     },
     {
         "name": "Smith",
         "age": "35",
-        "city": "Tokyo"
+        "city": "Tokyo",
+        "role": "manager",
+        "department": "sales"
     },
     {
         "name": "Emily",
         "age": "22",
-        "city": "Sydney"
+        "city": "Sydney",
+        "role": "developer",
+        "department": "engineering"
     },
     {
         "name": "Michael",
         "age": "27",
-        "city": "Berlin   "
+        "city": "Berlin",
+        "role": "designer",
+        "department": "design"
     },
     {
         "name": "Sarah",
         "age": "31",
-        "city": "Los Angeles"
+        "city": "Los Angeles",
+        "role": "manager",
+        "department": "marketing"
     },
     {
         "name": "David",
         "age": "29",
-        "city": "Chicago   "
+        "city": "Chicago",
+        "role": "developer",
+        "department": "engineering"
     },
     {
         "name": "Anna",
         "age": "26",
-        "city": "Barcelona"
+        "city": "Barcelona",
+        "role": "designer",
+        "department": "design"
     },
     {
         "name": "James",
         "age": "32",
-        "city": "San Francisco"
+        "city": "San Francisco",
+        "role": "manager",
+        "department": "marketing"
     },
     {
         "name": "Robert",
         "age": "24",
-        "city": "Amsterdam"
+        "city": "Amsterdam",
+        "role": "developer",
+        "department": "engineering"
     },
     {
         "name": "Linda",
         "age": "33",
-        "city": "Brussels"
+        "city": "Brussels",
+        "role": "manager",
+        "department": "marketing"
     },
     {
         "name": "William",
         "age": "27",
-        "city": "Zurich"
+        "city": "Zurich",
+        "role": "designer",
+        "department": "design"
     },
     {
         "name": "Jessica",
         "age": "30",
-        "city": "Stockholm"
+        "city": "Stockholm",
+        "role": "developer",
+        "department": "engineering"
     },
     {
         "name": "Daniel",
         "age": "28",
-        "city": "Copenhagen"
+        "city": "Copenhagen",
+        "role": "manager",
+        "department": "sales"
     },
     {
         "name": "Laura",
         "age": "26",
-        "city": "Vienna"
+        "city": "Vienna",
+        "role": "developer",
+        "department": "engineering"
+    },
+    {
+        "name": "Kevin",
+        "age": "29",
+        "city": "Helsinki",
+        "role": "designer",
+        "department": "design"
+    },
+    {
+        "name": "Lisa",
+        "age": "31",
+        "city": "Oslo",
+        "role": "manager",
+        "department": "marketing"
     }
 ]

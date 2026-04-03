@@ -1,17 +1,19 @@
-Adjaye,23,Accra
-John,30,New York      
-Jane,25,London
-Doe,28,Paris
-Smith,35,Tokyo
-Emily,22,Sydney
-Michael,27,Berlin   
-Sarah,31,Los Angeles
-David,29,Chicago   
-Anna,26,Barcelona
-James,32,San Francisco
-Robert,24,Amsterdam
-Linda,33,Brussels
-William,27,Zurich
-Jessica,30,Stockholm
-Daniel,28,Copenhagen
-Laura,26,Vienna
+Adjaye,23,Accra,frontdesk,marketing
+John,30,New York,manager,marketing
+Jane,25,London,developer,engineering
+Doe,28,Paris,designer,design
+Smith,35,Tokyo,manager,sales
+Emily,22,Sydney,developer,engineering
+Michael,27,Berlin,designer,design
+Sarah,31,Los Angeles,manager,marketing
+David,29,Chicago,developer,engineering
+Anna,26,Barcelona,designer,design
+James,32,San Francisco,manager,marketing
+Robert,24,Amsterdam,developer,engineering
+Linda,33,Brussels,manager,marketing
+William,27,Zurich,designer,design
+Jessica,30,Stockholm,developer,engineering
+Daniel,28,Copenhagen,manager,sales
+Laura,26,Vienna,developer,engineering
+Kevin,29,Helsinki,designer,design
+Lisa,31,Oslo,manager,marketing

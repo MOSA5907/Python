@@ -50,3 +50,27 @@ for i in data["person"]:
 # print(data) 
 # C:\website\Python\Lesson2\data.json
 # Lesson2\data.json
+
+
+
+# for n in range(0, 10):
+#     print(n)
+    
+    
+# list = [n for n in range(0, 10) if n % 2 == 0]
+# print(list)
+
+# list = [n for n in range(0, 10) if n % 2 == 1]
+# print(list)
+
+# list = {n for n in range(0, 10) if n % 2 == 1}
+# print(list)
+
+# list = (n for n in range(0, 10) if n % 2 == 1)
+# print(list)
+# # print(list.__getstate__())
+# # print(list.__str__())
+# # print(list.__init__())
+
+# for item in list:
+#     print(item)
